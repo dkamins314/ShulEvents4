@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-19 18:54:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-19 18:54:48 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 - 500 0 0 3589
+2019-05-19 18:54:48 ::1 GET /favicon.ico - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 64
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-19 19:07:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-19 19:07:58 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 - 200 0 0 3018
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-19 19:48:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-19 19:48:33 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 - 200 0 0 3321
+2019-05-19 19:48:33 ::1 GET /js/site.js v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 101
+2019-05-19 19:48:33 ::1 GET /css/site.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 135
+2019-05-19 19:48:33 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 137
+2019-05-19 19:48:33 ::1 GET /lib/bootstrap/dist/js/bootstrap.bundle.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 166
+2019-05-19 19:48:33 ::1 GET /lib/jquery/dist/jquery.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 182
+2019-05-19 19:49:05 ::1 GET /Identity/Account/Register - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 177
+2019-05-19 19:49:05 ::1 GET /Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Register 200 0 0 10
+2019-05-19 19:49:05 ::1 GET /Identity/lib/jquery-validation/dist/jquery.validate.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Register 200 0 0 16
+2019-05-19 19:49:51 ::1 POST /Identity/Account/Register - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Register 302 0 64 982
+2019-05-19 19:49:51 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Register 200 0 0 50
+2019-05-19 19:49:58 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 41
+2019-05-19 19:50:05 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 23
+2019-05-19 19:50:18 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 39
+2019-05-19 19:50:20 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 39
+2019-05-19 19:50:32 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 42
+2019-05-19 19:50:36 ::1 GET /Identity/Account/Manage - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 236
+2019-05-19 19:50:36 ::1 GET /Identity/js/site.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 45
+2019-05-19 19:50:36 ::1 GET /Identity/lib/bootstrap/dist/css/bootstrap.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 63
+2019-05-19 19:50:36 ::1 GET /Identity/lib/bootstrap/dist/js/bootstrap.bundle.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 70
+2019-05-19 19:50:36 ::1 GET /Identity/css/site.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 83
+2019-05-19 19:50:36 ::1 GET /Identity/lib/jquery/dist/jquery.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 97
+2019-05-19 19:50:41 ::1 GET /Identity/Account/Manage - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/Identity/Account/Manage 200 0 0 62

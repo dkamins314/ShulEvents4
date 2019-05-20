@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-20 16:53:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-20 16:53:56 ::1 GET / - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 - 200 0 0 6304
+2019-05-20 16:53:56 ::1 GET /js/site.js v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 98
+2019-05-20 16:53:56 ::1 GET /css/site.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 99
+2019-05-20 16:53:56 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 118
+2019-05-20 16:53:56 ::1 GET /lib/bootstrap/dist/js/bootstrap.bundle.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 137
+2019-05-20 16:53:56 ::1 GET /lib/jquery/dist/jquery.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 142
+2019-05-20 16:54:07 ::1 GET /CreateYearlyEventsViewModels/Create - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/ 200 0 0 332
+2019-05-20 16:54:07 ::1 GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/CreateYearlyEventsViewModels/Create 200 0 0 37
+2019-05-20 16:54:07 ::1 GET /lib/jquery-validation/dist/jquery.validate.js - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/CreateYearlyEventsViewModels/Create 200 0 0 38
+2019-05-20 16:55:23 ::1 POST /CreateYearlyEventsViewModels/Create - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/CreateYearlyEventsViewModels/Create 302 0 64 304
+2019-05-20 16:55:23 ::1 GET /CreateYearlyEventsViewModels - 44314 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.157+Safari/537.36 https://localhost:44314/CreateYearlyEventsViewModels/Create 200 0 0 191
